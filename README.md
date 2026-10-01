@@ -1,5 +1,3 @@
-Yes. The issue is that I was wrapping the Markdown in a way that the chat UI was still interpreting. Here is **one single raw file**. Copy everything between the first and last line into `README.md`.
-
 ```
 # Dynamic Lead Form & Design System
 
