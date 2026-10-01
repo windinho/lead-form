@@ -1,4 +1,3 @@
-```
 # Dynamic Lead Form & Design System
 
 A responsive, configuration-driven lead capture form built with React and TypeScript.
@@ -372,4 +371,3 @@ Then create the initial commit:
 ## License
 
 This project is provided for demonstration and evaluation purposes.
-```
